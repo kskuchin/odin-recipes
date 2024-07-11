@@ -1,6 +1,6 @@
 # odin-recipes
 
-Practice setting up a website using basic HTML, by way of the Odin Project 
+Practice setting up a website using basic HTML, by way of The Odin Project 
 curriculum. This site contains a few recipes that I commonly make at home, or 
 want to make - these are adapted from recipes already published online by others,
 and the originals are linked on each recipe page. So far, all recipes here are
